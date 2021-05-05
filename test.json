@@ -1,0 +1,14 @@
+{
+  "swagger": "2.0",
+  "info": {
+  "title": "Swagger Sample App",
+  "version": "1.0.1",
+  "description": "Please to click Terms of service",
+  "termsOfService": "Please click here",
+  "contact": {
+    "name": "API Support",
+    "url": "javascript:alert(document.cookie)",
+    "email": "javascript:alert(document.cookie)"
+  }
+ }
+} 
